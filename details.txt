@@ -1,0 +1,4 @@
+Details:
+
+OpenCV for Webcam
+MediaPipe for Hand Recognition
